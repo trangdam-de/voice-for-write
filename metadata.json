@@ -1,0 +1,6 @@
+{
+  "name": "V-StoryTTS - Studio Kịch Bản & Giọng Đọc Đa Nhân Vật",
+  "description": "Studio chuyển văn bản thành giọng nói đa nhân vật chuyên nghiệp phong cách Vbee, hỗ trợ chỉnh tốc độ, cao độ, nhạc nền BGM và xuất phụ đề SRT chuẩn YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
